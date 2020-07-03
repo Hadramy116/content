@@ -20,6 +20,46 @@
             "#3CC2BF"
           ],
           "originalColor": false
+        },
+        {
+          "category": 24,
+          "image": "assets/icons/categories/ic_dress.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ]
+        },
+        {
+          "category": 25,
+          "image": "assets/icons/categories/ic_shorts.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 28,
+          "image": "assets/icons/categories/ic_glasses.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 29,
+          "image": "assets/icons/categories/ic_tie.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "category": 30,
+          "image": "assets/icons/categories/ic_panties.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
         }
       ]
     },
@@ -33,17 +73,17 @@
       "radius": 2.0,
       "items": [{
           "category": 28,
-          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+          "image": "http://mgadycom.com/image/catalog/banner-1.jpg",
           "padding": 15.0
         },
         {
           "category": 29,
-          "image": "https://user-images.githubusercontent.com/1459805/60091575-1f12ca80-976f-11e9-962c-bdccff60d143.png",
+          "image": "http://mgadycom.com/image/catalog/banner-2.jpg",
           "padding": 15.0
         },
         {
           "product": 30,
-          "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+          "image": "http://mgadycom.com/image/catalog/banner-3.jpg",
           "padding": 15.0
         }
       ]
@@ -52,7 +92,7 @@
       "layout": "bannerImage",
       "items": [{
         "url": "https://inspireui.com",
-        "image": "https://user-images.githubusercontent.com/1459805/59846820-12672e80-938b-11e9-8fa6-b331b7db331d.png",
+        "image": "http://mgadycom.com/image/catalog/banner-4.jpg",
         "padding": 5.0
       }]
     },
@@ -60,7 +100,7 @@
       "layout": "bannerImage",
       "items": [{
           "category": 18,
-          "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
+          "image": "http://mgadycom.com/image/catalog/banner-5.jpg",
           "padding": 5.0
         },
         {
@@ -137,6 +177,12 @@
   ],
   "OnBoarding": {
     "data": [
+      {
+        "title": "Welcome to FluxStore",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
       {
         "title": "Connect Surrounding World",
         "image": "assets/images/fogg-uploading-1.png",
