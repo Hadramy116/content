@@ -88,29 +88,7 @@
         }
       ]
     },
-    {
-      "layout": "bannerImage",
-      "items": [{
-        "url": "https://inspireui.com",
-        "image": "http://mgadycom.com/image/catalog/banner-4.jpg",
-        "padding": 5.0
-      }]
-    },
-    {
-      "layout": "bannerImage",
-      "items": [{
-          "category": 18,
-          "image": "http://mgadycom.com/image/catalog/banner-5.jpg",
-          "padding": 5.0
-        },
-        {
-          "category": 23,
-          "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
-          "padding": 5.0,
-          "featured": true
-        }
-      ]
-    },
+
     {
       "name": "Recent View",
       "layout": "recentView"
