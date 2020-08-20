@@ -115,31 +115,7 @@
       "name": "Recent View",
       "layout": "recentView"
     },
-    {
-      "name": "Woman Collections",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 22,
-      "isSnapping": true
-    },
-    {
-      "name": "Man Collections",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 21,
-      "isSnapping": true
-    },
 
-    # {
-    #   "name": "Our Blog Posts",
-    #   "layout": "blog"
-    # },
-    {
-      "name": "New Collections",
-      "layout": "staggered",
-      "limit": 20,
-      "category": 29
-    }
   ],
   "Setting": {
     "MainColor": "#3FC1BE",
@@ -170,10 +146,7 @@
     }
   ],
   "searchSuggestion": [
-    "man",
-    "dress",
-    "Stitch",
-    "ma"
+ 
   ],
   "OnBoarding": {
     "data": [
