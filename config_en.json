@@ -13,7 +13,7 @@
       "size": 1.0,
       "radius": 50.0,
       "items": [{
-          "category": 60,
+          "category": 18,
           "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
           "colors": [
             "#3CC2BF",
@@ -22,7 +22,7 @@
           "originalColor": false
         },
         {
-          "category": 61,
+          "category": 24,
           "image": "assets/icons/categories/ic_dress.png",
           "colors": [
             "#3E6AB5",
@@ -30,7 +30,7 @@
           ]
         },
         {
-          "category": 62,
+          "category": 25,
           "image": "assets/icons/categories/ic_shorts.png",
           "colors": [
             "#53A2CC",
@@ -38,7 +38,7 @@
           ]
         },
         {
-          "category": 63,
+          "category": 28,
           "image": "assets/icons/categories/ic_glasses.png",
           "colors": [
             "#53688A",
@@ -46,7 +46,7 @@
           ]
         },
         {
-          "category": 64,
+          "category": 29,
           "image": "assets/icons/categories/ic_tie.png",
           "colors": [
             "#43506A",
@@ -54,7 +54,7 @@
           ]
         },
         {
-          "category": 65,
+          "category": 30,
           "image": "assets/icons/categories/ic_panties.png",
           "colors": [
             "#12B58C",
@@ -72,12 +72,12 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [{
-          "category": 60,
+          "category": 28,
           "image": "http://mgadycom.com/image/catalog/banner-1.jpg",
           "padding": 15.0
         },
         {
-          "category": 61,
+          "category": 29,
           "image": "http://mgadycom.com/image/catalog/banner-2.jpg",
           "padding": 15.0
         },
@@ -99,12 +99,12 @@
     {
       "layout": "bannerImage",
       "items": [{
-          "category": 69,
+          "category": 18,
           "image": "http://mgadycom.com/image/catalog/banner-5.jpg",
           "padding": 5.0
         },
         {
-          "category": 68,
+          "category": 23,
           "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
           "padding": 5.0,
           "featured": true
@@ -115,8 +115,8 @@
       "name": "Recent View",
       "layout": "recentView"
     },
+   
 
-  ],
   "Setting": {
     "MainColor": "#3FC1BE",
     "ProductListLayout": "list",
@@ -146,7 +146,7 @@
     }
   ],
   "searchSuggestion": [
- 
+
   ],
   "OnBoarding": {
     "data": [
