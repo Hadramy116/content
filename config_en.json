@@ -88,6 +88,14 @@
         }
       ]
     },
+    {
+      "layout": "bannerImage",
+      "items": [{
+        "url": "https://inspireui.com",
+        "image": "http://mgadycom.com/image/catalog/banner-4.jpg",
+        "padding": 5.0
+      }]
+    },
 
     {
       "name": "Recent View",
